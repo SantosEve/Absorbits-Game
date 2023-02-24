@@ -1,7 +1,5 @@
 # Absorbits-Game
-
-
-        ![Absorbits](https://user-images.githubusercontent.com/102689284/221182746-940e21a4-85c0-4b29-aa9b-35e00a7718d5.png)
+![Absorbits](https://user-images.githubusercontent.com/102689284/221182746-940e21a4-85c0-4b29-aa9b-35e00a7718d5.png)
 
 This is a group project developed for a school project, the traditional 'tic-tac-toe' has been reinvented: It is now possible to play with Absorbits (another school project that will appear here soon) or even with a drop of blood - the antagonist from Absorbits.
 
